@@ -1,1 +1,6 @@
-# project-1
+![Снимок экрана (18)](https://user-images.githubusercontent.com/87767727/126504861-73e11bda-b4d5-47f9-96b9-207d09f55c04.png)
+![Снимок экрана (19)](https://user-images.githubusercontent.com/87767727/126504867-09075602-b9d9-4ba7-ae2a-1f425682a50a.png)
+![Снимок экрана (20)](https://user-images.githubusercontent.com/87767727/126504869-8a553127-8bb6-4ff1-b4da-60fdefe3a121.png)
+![Снимок экрана (21)](https://user-images.githubusercontent.com/87767727/126504871-270c3425-b251-4721-a36d-376ab4e1ef16.png)
+![Снимок экрана (22)](https://user-images.githubusercontent.com/87767727/126504928-4b8640f0-f8a1-4901-ad8f-ac2aa8c434f8.png)
+![Снимок экрана (23)](https://user-images.githubusercontent.com/87767727/126504932-251cffb9-545b-4e72-b1c1-58e44eb6b4ae.png)
